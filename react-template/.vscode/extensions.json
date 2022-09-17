@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "streetsidesoftware.code-spell-checker",
+        "equinusocio.vsc-community-material-theme",
+        "mikestead.dotenv",
+        "dbaeumer.vscode-eslint",
+        "equinusocio.vsc-material-theme-icons",
+        "esbenp.prettier-vscode",
+        "planbcoding.vscode-react-refactor",
+        "tabnine.tabnine-vscode",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.auto-close-tag",
+        "rodrigovallades.es7-react-js-snippets",
+        "steoates.autoimport",
+        "wix.vscode-import-cost"
+    ]
+}
